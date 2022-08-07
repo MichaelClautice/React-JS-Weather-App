@@ -1,0 +1,6 @@
+🔴 Michael Clautice, Richmond, VA 
+🔴 React-JS-Weather-App 
+
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
